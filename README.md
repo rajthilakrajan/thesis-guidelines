@@ -7,4 +7,4 @@ Caution: These guidelines are not entirely TUD regulations, but a structure whic
 
 R.T.Rajan
 
-Distributed Autnomous Sensing Systems (DASS)
+Distributed Autonomous Sensing Systems (DASS)
